@@ -1,4 +1,4 @@
-#Map Navigator
+# Map Navigator
 This is project on Dijkstra's Algorithm
 
 Steps to run the project:
